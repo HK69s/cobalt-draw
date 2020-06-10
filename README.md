@@ -1,6 +1,6 @@
 # cobalt-draw
 
-cobalt-draw是基于cobalt进行二次开发的。
+cobalt-draw是基于cobalt进行二次开发的typora主题。
 
 主要开发了白色主题和黑色主题进行了些许更改。
 
